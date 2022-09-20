@@ -24,6 +24,7 @@
     font-family:'Roboto';
     font-size: 14px;
     font-weight:bolder;
+    text-decoration:;
     
 }
 
@@ -38,8 +39,7 @@
     border-radius: 50px;
 }
 .tabla2{
-    
-    
+       
     color: white;
     font-size: 32px;
     font-family: 'Roboto';
@@ -53,10 +53,11 @@
 .boton2{
     background: #583BB6;
     color: #ffffff;
-    font-size: 10px;
+    font-size: 12px;
     font-family: 'Roboto';
     font-weight: bold;
-    padding: 10px 24px;
+    margin: 0px 15px 16px 0px;
+    padding: 18px 40px;
     border:1px solid white ;
     border-radius: 50px;
 }
@@ -92,4 +93,11 @@
     border-radius: 8px;
     margin-right: 75%;
     font-weight: bold;
+}
+.elemento3{
+    font-size: 14px;
+}
+.elemento4{
+    font-size: 16px;
+    margin: 24px 0px;
 }
